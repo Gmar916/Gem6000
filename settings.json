@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hcamcies.mcsh.io",
-    "port": 19132,
+    "ip": "headstealnl.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
