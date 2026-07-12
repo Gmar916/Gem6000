@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "headstealsmpnl.mcsh.io",
+    "ip": "headstealnl.mcsh.io",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
